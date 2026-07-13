@@ -1,0 +1,13 @@
+main:
+  - title: "Objective"
+    url: "#objective"
+  - title: "Important Dates"
+    url: "#important-dates"
+  - title: "Program"
+    url: "#program"
+  - title: "Call for Contributions"
+    url: "#call-for-contributions"
+  - title: "Organizers and PC"
+    url: "#organizers-and-program-committee"
+#  - title: "Accepted Papers"
+#    url: "#accepted-papers"
