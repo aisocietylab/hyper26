@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: 'HyPeR 2026 Workshop'
-subtitle: "<span>Hy</span>brid AI for Human-Centric <span>Pe</span>sonalization and <span>R</span>ecommendation"
+subtitle: "<span>Hy</span>brid AI for Human-Centric <span>Pe</span>rsonalization and <span>R</span>ecommendation"
 
 # TODO: set exact location (hall, room, etc.)
-excerpt: "November 8 @ CIKM2026 <a href=''>Rome, ITALY</a>"
+excerpt: "November 8 @ <a href='https://cikm2026.diag.uniroma1.it'>CIKM 2026 in Rome, ITALY</a>"
 keywords: "Hybrid User Models, Hybrid AI, Symbolic AI, Sub-symbolic AI, Neuro-symbolic AI, Cognitive Models, Explainability, Interpretability, Evaluation, Human-Centered Recommender Systems"
 description: "The HyPer workshop focuses on how hybrid AI approaches can foster more explainable and personalized user experiences."
 
