@@ -26,7 +26,7 @@ locale: "en-US"
 
 The increasing adoption of personalization and recommender systems in high-impact domains raises fundamental questions about how user models represent, reason about, and adapt to human behavior. While recent advances in machine learning have improved predictive accuracy, they offer limited support for explicit reasoning, interpretability, and the incorporation of cognitive and normative constraints. The Second International Workshop on Hybrid AI for Human-Centric Personalization and Recommendation (HyPeR 2026) focuses on hybrid AI as a methodological framework for user modeling, recommendations, and personalization, emphasizing the integration of learning-based approaches with symbolic knowledge, reasoning mechanisms, and cognition-informed representations. HyPeR brings together researchers and practitioners to examine architectures, methods, and evaluation strategies for hybrid user models. The workshop aims to stimulate exchange and to shape future research directions at the intersection of user modeling, hybrid AI, and human-centered recommender systems.
 
-<!-- The workshop proposal can be found [here]({{ '/assets/pdfs/UMAP_25__Hybrid_User_Models.pdf' | relative_url }}). -->
+The workshop proposal can be found [here]({{ '/assets/pdfs/CIKM_26__HyPer_WS.pdf' | relative_url }}).
 
 # Important Dates
 
