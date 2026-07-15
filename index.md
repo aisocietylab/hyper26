@@ -165,15 +165,11 @@ We welcome three types of **submissions** (in single-column CEUR-WS workshop tem
 2. **Short (Work-in-progress and Demo) Papers** describing ongoing research, preliminary research results, or demonstrations relevant to the workshop topics. *Up to **6** pages (excluding references)*.
 3. **Position Papers** of novel ideas, including position, discussion, reflection, and perspective papers on the workshop topics. *Up to **6** pages (excluding references, if needed)*.
 
-... submission side will be added here at a later point
+**Please use the [EasyChair Submission System](https://easychair.org/conferences/?conf=hyper2026) to submit your contributions.** An international panel of experts will review all submissions.
 
-<!-- **Please use the [EasyChair Submission System](https://easychair.org/my/conference?conf=umap2025) to submit your contributions, selecting the _"HyPer- Hybrid AI for Human-Centric Personalization"_ track.** An international panel of experts will review all submissions.
+The templates and instructions are available [here](https://ceur-ws.org/HOWTOSUBMIT.html).
 
-Papers must be formatted according to the new workflow for ACM publications. All accepted papers will be published by ACM and will be available via the ACM Digital Library. At least one author of each accepted paper must register for the particular workshop and present the paper there.
-
-The templates and instructions are available [here](https://authors.acm.org/proceedings/production-information/taps-production-workflow).
-
-If you work with Overleaf, you can directly start with the template from [here](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc). -->
+If you work with Overleaf, you can directly start with the template from [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
 
 # Organizers and Program Committee
 
