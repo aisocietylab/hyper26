@@ -44,7 +44,7 @@ The workshop proposal can be found [here]({{ '/assets/pdfs/CIKM_26__HyPer_WS.pdf
     </tr> -->
     <tr>
       <td>Paper Submissions</td>
-      <td><strong>August 24, 2026</strong></td>
+      <td><s>August 24, 2026</s> <strong>September 7th, 2026</strong></td>
     </tr>
     <tr>
       <td>Paper Notifications</td>
