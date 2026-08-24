@@ -171,6 +171,8 @@ The templates and instructions are available [here](https://ceur-ws.org/HOWTOSUB
 
 If you work with Overleaf, you can directly start with the template from [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
 
+Submissions are reviewed in a **single-blind** peer-review process by at least two members of the program committee based on relevance to the workshop themes, originality, technical quality, clarity, and potential to stimulate discussion
+
 # Organizers and Program Committee
 
 ## Organizers
