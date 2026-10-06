@@ -65,7 +65,16 @@ The workshop proposal can be found [here]({{ '/assets/pdfs/CIKM_26__HyPer_WS.pdf
 
 # Program
 
-tbd
+schedule will appear here
+
+## Accepted Contributions
+
+- Raffaele Smalidini, Gianni Carmosino, Dario Di Palma, Alberto Carlo Maria Mancino, Tommaso Di Noia and Fedelucio Narducci. **FOLMind: Logic-Guided Hybrid Representations for Collaborative Recommendation**  
+- Markus Reiter-Haas and Elisabeth Lex. **Agents Over Algorithms for Recommendations? Recommender Integration Strategies for Agentic AI**  
+- Amangel Bhullar and Ziad Kobti. **KARMA-Rec: Knowledge-Anchored Collaborative Representation Transfer for Cold-Start Recommendation**
+- Shiteng Cao, Zhiheng Li, Jingwen Liu, Yunlong Gong and Yuankang Liu. **SymKGRec: Neuro-Symbolic Knowledge Graph Reasoning with LLM Alignment for Explainable and Dynamic Personalized Recommendation**
+- Marwa Boulakbech. **Context-Aware Hybrid AI Reasoning over Enriched Knowledge Graphs for Personalized Recommendations**  
+- Kevin Innerebner, Markus Reiter-Haas and Elisabeth Lex. **Episodic Memories for Recommender Systems**
 
 <!-- <table>
   <thead>
