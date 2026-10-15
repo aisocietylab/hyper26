@@ -106,12 +106,12 @@ Tentative Schedule:
       <td>Episodic Memories for Recommender Systems</td>
       <td>Kevin Innerebner, Markus Reiter-Haas and Elisabeth Lex</td>
     </tr>
-    <tr class="break">
+    <tr class="">
       <td>15:50 - 16:20</td>
       <td>Break</td>
       <td></td>
     </tr>
-    <tr class="">
+    <tr class="break">
         <td>16:20 - 17:10</td>
         <td>Paper Session 2: Hybrid Representations for Recommender Systems</td>
         <td></td>
