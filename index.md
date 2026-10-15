@@ -86,7 +86,7 @@ Tentative Schedule:
         <td>Keynote</td>
         <td>Tommaso Di Noia</td>
     </tr>
-    <tr class="structure">
+    <tr class="break">
         <td>15:00 - 15:50</td>
         <td>Paper Session 1: Graph-based Reasoning for Personalized Recommendations</td>
         <td></td>
@@ -111,7 +111,7 @@ Tentative Schedule:
       <td>Break</td>
       <td></td>
     </tr>
-    <tr class="structure">
+    <tr class="">
         <td>16:20 - 17:10</td>
         <td>Paper Session 2: Hybrid Representations for Recommender Systems</td>
         <td></td>
@@ -145,7 +145,7 @@ Tentative Schedule:
 </table>
 
 <p>
-Legend: <span class="presentation">Presentation (research paper)</span> | <span class="presentation-alt">Presentation (position paper)</span> | <span class="structure">Structure (Session/breaks)</span> | <span class="special">Planned Activities</span>
+Legend: <span class="presentation">Presentation (research paper)</span> | <span class="presentation-alt">Presentation (position paper)</span> | <span class="break">Paper Session</span> | <span class="special">Planned Activities</span>
 </p>
 
 <!--
