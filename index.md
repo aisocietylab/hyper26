@@ -229,7 +229,23 @@ Submissions are reviewed in a **single-blind** peer-review process by at least t
 
 ## Program Committee
 
-tbd
+- Florian Atzenhofer-Baumgartner, University of Graz
+- Stephan Bartl, Technical University of Graz
+- Robin Burke, University of Colorado, Boulder
+- Marco de Gemmis, University of Bari Aldo Moro, Dept. of Computer Science
+- Hannah Eckert, Johannes Keppler Universität Linz
+- Arsen Matej Golubovikj, University of Primorska
+- Kevin Innerebner, Graz University of Technology
+- Bart Knijnenburg, Clemson University
+- Oleg Lesota, Johannes Kepler University
+- Gregor Mayr, Graz University of Technology
+- Vedad Misirlic, Graz University of Technology
+- Cataldo Musto, Dipartimento di Informatica - University of Bari
+- Uroš Sergaš, University of Primorska
+- Kosar Seyyedhosseinzadeh, University of Primorska
+- Antonela Tommasel, ISISTAN Research Institute, CONICET-UNCPBA
+- Yiting Zhao, Stanford University
+
 
 <!-- - Florian Atzenhofer-Baumgartner, University of Graz
 - Toine Bogers, IT University of Copenhagen
