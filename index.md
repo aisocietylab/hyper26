@@ -65,8 +65,90 @@ The workshop proposal can be found [here]({{ '/assets/pdfs/CIKM_26__HyPer_WS.pdf
 
 # Program
 
-schedule will appear here
+Tentative Schedule:
 
+<table>
+  <thead>
+    <tr>
+      <th style="width:15%">Time (CET)</th>
+      <th>Title</th>
+      <th>Authors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="special">
+      <td>14:00 - 14:10</td>
+      <td>Opening Remarks</td>
+      <td></td>
+    </tr>
+    <tr class="special">
+        <td>14:10 - 15:00</td>
+        <td>Keynote</td>
+        <td>Tommaso Di Noia</td>
+    </tr>
+    <tr class="structure">
+        <td>15:00 - 15:50</td>
+        <td>Paper Session 1: Graph-based Reasoning for Personalized Recommendations</td>
+        <td></td>
+    </tr>
+    <tr class="presentation">
+      <td>15:00 - 15:20</td>
+      <td>SymKGRec: Neuro-Symbolic Knowledge Graph Reasoning with LLM Alignment for Explainable and Dynamic Personalized Recommendation</td>
+      <td>Shiteng Cao, Zhiheng Li, Jingwen Liu, Yunlong Gong and Yuankang Liu</td>
+    </tr>
+    <tr class="presentation">
+      <td>15:20 - 15:40</td>
+      <td>Context-Aware Hybrid AI Reasoning over Enriched Knowledge Graphs for Personalized Recommendations</td>
+      <td>Marwa Boulakbech</td>
+    </tr>
+    <tr class="presentation-alt">
+      <td>15:40 - 15:50</td>
+      <td>Episodic Memories for Recommender Systems</td>
+      <td>Kevin Innerebner, Markus Reiter-Haas and Elisabeth Lex</td>
+    </tr>
+    <tr class="break">
+      <td>15:50 - 16:20</td>
+      <td>Break</td>
+      <td></td>
+    </tr>
+    <tr class="structure">
+        <td>16:20 - 17:10</td>
+        <td>Paper Session 2: Hybrid Representations for Recommender Systems</td>
+        <td></td>
+    </tr>
+    <tr class="presentation">
+      <td>16:20 - 16:40</td>
+      <td>KARMA-Rec: Knowledge-Anchored Collaborative Representation Transfer for Cold-Start Recommendation</td>
+      <td>Amangel Bhullar and Ziad Kobti</td>
+    </tr>
+    <tr class="presentation">
+      <td>16:40 - 17:00</td>
+      <td>FOLMind: Logic-Guided Hybrid Representations for Collaborative Recommendation</td>
+      <td>Raffaele Smalidini, Gianni Carmosino, Dario Di Palma, Alberto Carlo Maria Mancino, Tommaso Di Noia and Fedelucio Narducci</td>
+    </tr>
+    <tr class="presentation-alt">
+      <td>17:00 - 17:10</td>
+      <td>Agents Over Algorithms for Recommendations? Recommender Integration Strategies for Agentic AI</td>
+      <td>Markus Reiter-Haas and Elisabeth Lex</td>
+    </tr>
+    <tr class="special">
+      <td>17:10 - 17:50</td>
+      <td>Panel Discussion</td>
+      <td></td>
+    </tr>
+    <tr class="special">
+      <td>17:50 - 18:00</td>
+      <td>Closing Remarks</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>
+Legend: <span class="presentation">Presentation (research paper)</span> | <span class="presentation-alt">Presentation (position paper)</span> | <span class="structure">Structure (Session/breaks)</span> | <span class="special">Planned Activities</span>
+</p>
+
+<!--
 ## Accepted Contributions
 
 - Raffaele Smalidini, Gianni Carmosino, Dario Di Palma, Alberto Carlo Maria Mancino, Tommaso Di Noia and Fedelucio Narducci. **FOLMind: Logic-Guided Hybrid Representations for Collaborative Recommendation**  
@@ -75,80 +157,7 @@ schedule will appear here
 - Shiteng Cao, Zhiheng Li, Jingwen Liu, Yunlong Gong and Yuankang Liu. **SymKGRec: Neuro-Symbolic Knowledge Graph Reasoning with LLM Alignment for Explainable and Dynamic Personalized Recommendation**
 - Marwa Boulakbech. **Context-Aware Hybrid AI Reasoning over Enriched Knowledge Graphs for Personalized Recommendations**  
 - Kevin Innerebner, Markus Reiter-Haas and Elisabeth Lex. **Episodic Memories for Recommender Systems**
-
-<!-- <table>
-  <thead>
-    <tr>
-      <th style="width:15%">Time (EDT)</th>
-      <th>Session</th>
-      <th>Authors</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="special">
-      <td>09:00 - 09:10</td>
-      <td>Opening Remarks</td>
-      <td></td>
-    </tr>
-    <tr class="presentation">
-      <td>09:10 - 09:35</td>
-      <td>Towards a Hybrid Framework for Motion Representation and Analysis based on Labanotation and LMA (Paper #340, LONG)</td>
-      <td>Roberto Perez-Martinez, Alberto Casas-Ortiz and Olga C. Santos</td>
-    </tr>
-    <tr class="presentation-alt">
-      <td>09:35 - 09:50</td>
-      <td>Differentiable Fuzzy Neural Networks for Recommender Systems (Paper #321, SHORT)</td>
-      <td>Stephan Bartl, Kevin Innerebner and Elisabeth Lex</td>
-    </tr>
-    <tr class="presentation">
-      <td>09:50 - 10:15</td>
-      <td>The Impact of Confidence Ratings on User Trust in Large Language Models (Paper #337, LONG)</td>
-      <td>Lifei Wang, Natalie Friedman, Chengchao Zhu, Zeshu Zhu and S.Joy Mountford</td>
-    </tr>
-    <tr class="presentation-alt">
-      <td>10:15 - 10:30</td>
-      <td>Procedural Memory is not All You Need: Bridging Cognitive Gaps in LLM-Based Agents (Paper #260, SHORT)</td>
-      <td>Schaun Wheeler and Olivier Jeunen</td>
-    </tr>
-    <tr class="break">
-      <td>10:30 - 11:00</td>
-      <td>Break</td>
-      <td></td>
-    </tr>
-    <tr class="presentation">
-      <td>11:00 - 11:25</td>
-      <td>User Orientations and Stage-Specific Behaviors in E-commerce Exploratory Search: A Formative Study (Paper #339, LONG)</td>
-      <td>Eunhye Kim, Kiroong Choe, Guangjing Yan and Mingyu Kang</td>
-    </tr>
-    <tr class="presentation">
-      <td>11:25 - 11:50</td>
-      <td>The Potential of AutoML for Recommender Systems (Paper #271, LONG)</td>
-      <td>Tobias Vente and Joeran Beel</td>
-    </tr>
-    <tr class="presentation-alt">
-      <td>11:50 - 12:05</td>
-      <td>Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R (Paper #335, SHORT)</td>
-      <td>Kevin Innerebner, Dominik Kowald, Markus Schedl and Elisabeth Lex</td>
-    </tr>
-    <tr class="presentation-alt">
-      <td>12:05 - 12:20</td>
-      <td>Building Human-AI Reliance Through Cognitive Engagement and Exploratory AI Assistance (Paper #232, SHORT)</td>
-      <td>Muhammad Raees, Vassilis-Javed Khan and Konstantinos Papangelis</td>
-    </tr>
-    <tr class="special">
-      <td>12:20 - 12:30</td>
-      <td>Closing Remarks</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>
-Legend: <span class="presentation">Presentation (long paper)</span> | <span class="presentation-alt">Presentation (short paper)</span> | <span class="break">Break</span> | <span class="special">Opening & Closing</span>
-</p> -->
-
-
-<!-- legend -->
+-->
 
 
 # Call for Contributions
