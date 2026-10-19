@@ -84,7 +84,7 @@ Tentative Schedule:
     <tr class="special">
         <td>14:10 - 15:00</td>
         <td>Keynote</td>
-        <td>Tommaso Di Noia</td>
+        <td><b>Tommaso Di Noia<b/></td>
     </tr>
     <tr class="break">
         <td>15:00 - 15:50</td>
@@ -104,7 +104,7 @@ Tentative Schedule:
     <tr class="presentation-alt">
       <td>15:40 - 15:50</td>
       <td>Episodic Memories for Recommender Systems</td>
-      <td>Kevin Innerebner, Markus Reiter-Haas and Elisabeth Lex</td>
+      <td><b>Kevin Innerebner</b>, Markus Reiter-Haas and Elisabeth Lex</td>
     </tr>
     <tr class="">
       <td>15:50 - 16:20</td>
@@ -124,12 +124,12 @@ Tentative Schedule:
     <tr class="presentation">
       <td>16:40 - 17:00</td>
       <td>FOLMind: Logic-Guided Hybrid Representations for Collaborative Recommendation</td>
-      <td>Raffaele Smalidini, Gianni Carmosino, Dario Di Palma, Alberto Carlo Maria Mancino, Tommaso Di Noia and Fedelucio Narducci</td>
+      <td>Raffaele Smalidini, Gianni Carmosino, Dario Di Palma, <b>Alberto Carlo Maria Mancino</b>, Tommaso Di Noia and Fedelucio Narducci</td>
     </tr>
     <tr class="presentation-alt">
       <td>17:00 - 17:10</td>
       <td>Agents Over Algorithms for Recommendations? Recommender Integration Strategies for Agentic AI</td>
-      <td>Markus Reiter-Haas and Elisabeth Lex</td>
+      <td><b>Markus Reiter-Haas</b> and Elisabeth Lex</td>
     </tr>
     <tr class="special">
       <td>17:10 - 17:50</td>
