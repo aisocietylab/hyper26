@@ -84,7 +84,7 @@ Tentative Schedule:
     <tr class="special">
         <td>14:10 - 15:00</td>
         <td>Keynote</td>
-        <td><b>Tommaso Di Noia<b/></td>
+        <td><b>Tommaso Di Noia</b></td>
     </tr>
     <tr class="break">
         <td>15:00 - 15:50</td>
