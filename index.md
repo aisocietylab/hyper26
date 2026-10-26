@@ -94,12 +94,12 @@ Tentative Schedule:
     <tr class="presentation">
       <td>15:00 - 15:20</td>
       <td>SymKGRec: Neuro-Symbolic Knowledge Graph Reasoning with LLM Alignment for Explainable and Dynamic Personalized Recommendation</td>
-      <td>Shiteng Cao, Zhiheng Li, Jingwen Liu, Yunlong Gong and Yuankang Liu</td>
+      <td><b>Shiteng Cao</b>, Zhiheng Li, <b>Jingwen Liu</b>, Yunlong Gong and Yuankang Liu</td>
     </tr>
     <tr class="presentation">
       <td>15:20 - 15:40</td>
       <td>Context-Aware Hybrid AI Reasoning over Enriched Knowledge Graphs for Personalized Recommendations</td>
-      <td>Marwa Boulakbech</td>
+      <td><b>Marwa Boulakbech</b></td>
     </tr>
     <tr class="presentation-alt">
       <td>15:40 - 15:50</td>
