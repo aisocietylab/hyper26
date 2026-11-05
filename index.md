@@ -119,7 +119,7 @@ Tentative Schedule:
     <tr class="presentation">
       <td>16:20 - 16:40</td>
       <td>KARMA-Rec: Knowledge-Anchored Collaborative Representation Transfer for Cold-Start Recommendation</td>
-      <td>Amangel Bhullar and Ziad Kobti</td>
+      <td><b>Amangel Bhullar</b> and Ziad Kobti</td>
     </tr>
     <tr class="presentation">
       <td>16:40 - 17:00</td>
