@@ -83,7 +83,7 @@ Tentative Schedule:
     </tr>
     <tr class="special">
         <td>14:10 - 15:00</td>
-        <td>Keynote</td>
+        <td>Keynote: What the Item Doesn't Say: Non-Monotonic Personalization in the Era of LLMs</td>
         <td><b>Tommaso Di Noia</b></td>
     </tr>
     <tr class="break">
