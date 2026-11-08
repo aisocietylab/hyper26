@@ -89,7 +89,7 @@ Tentative Schedule:
     <tr class="break">
         <td>15:00 - 15:50</td>
         <td>Paper Session 1: Graph-based Reasoning for Personalized Recommendations</td>
-        <td></td>
+        <td>Session Chair: Markus Reiter-Haas</td>
     </tr>
     <tr class="presentation">
       <td>15:00 - 15:20</td>
@@ -114,7 +114,7 @@ Tentative Schedule:
     <tr class="break">
         <td>16:20 - 17:10</td>
         <td>Paper Session 2: Hybrid Representations for Recommender Systems</td>
-        <td></td>
+        <td>Session Chair: Elisabeth Lex</td>
     </tr>
     <tr class="presentation">
       <td>16:20 - 16:40</td>
